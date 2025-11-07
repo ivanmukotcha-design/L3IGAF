@@ -1,4 +1,4 @@
-## ENSEIGNEMENT SUPERIEUR ET UNIVERSITAIRE
+I## ENSEIGNEMENT SUPERIEUR ET UNIVERSITAIRE
 ### DOMAINE: SCIENCES ECONOMIQUES ET DE GESTION
 #### MENTION: INFORMATIQUE ET ANGLAIS DES AFFAIRES
 #### <img src="uac-removebg-preview.png" alt="Logo UAC" height="100" style="vertical-align:middle;">
@@ -8,3 +8,4 @@
 | -------- | -------- | -------- |
 | Kasereka     | Kike     | 5000     |
 | Kambale     | Rukendo     | Grace    |
+| Musifuni    | Bhebilia     | Gloire   |
