@@ -8,3 +8,4 @@
 | -------- | -------- | -------- |
 | Kasereka     | Kike     | 5000     |
 | Kambale     | Rukendo     | Grace    |
+| Kavira    | Harapa    | help    |
