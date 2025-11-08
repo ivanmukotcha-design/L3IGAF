@@ -7,5 +7,6 @@
 | Nom | Postnom | Prenom |
 | -------- | -------- | -------- |
 | Kasereka     | Kike     | 5000     |
+| Deborah     | Vasombolwa     | Kasoki     |
 | Kambale     | Rukendo     | Grace    |
 | Ramazani     | Kasige     | Jacob    |
