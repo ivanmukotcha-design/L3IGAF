@@ -9,4 +9,6 @@
 | Kasereka     | Kike     | 5000     |
 | Deborah     | Vasombolwa     | Kasoki     |
 | Kambale     | Rukendo     | Grace    |
+| Kavira    | Harapa    | help    |
 | Ramazani     | Kasige     | Jacob    |
+
